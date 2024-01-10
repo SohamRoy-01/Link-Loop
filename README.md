@@ -114,3 +114,22 @@ npm start
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
 ## <a name="screenshots"> 📸 Screenshots</a>
+
+**For Mobile Users:**
+
+<div class="screenshot-container">
+  <img class="mobile-screenshot" src="https://github.com/SohamRoy-01/Link-Loop/assets/104237973/a609db53-3efa-4653-aec9-fac77a5dfdb7" alt="Mobile Screenshot 1" width="500">
+  <img class="mobile-screenshot" src="https://github.com/SohamRoy-01/Link-Loop/assets/104237973/a3996cd7-96cc-454b-a248-283ec697bf7b" alt="Mobile Screenshot 2" width="500">
+  <img class="mobile-screenshot" src="https://github.com/SohamRoy-01/Link-Loop/assets/104237973/8d918bf5-a48b-44d8-b1dc-3c03d7481cb7" alt="Mobile Screenshot 3" width="500">
+  <img class="mobile-screenshot" src="https://github.com/SohamRoy-01/Link-Loop/assets/104237973/cea1e902-152f-44de-bb1b-fbaf94a5e6a9" alt="Mobile Screenshot 4" width="500">
+</div>
+
+**For Laptop/Desktop Users:**
+
+<div class="screenshot-container">
+  <img class="desktop-screenshot" src="https://github.com/SohamRoy-01/Link-Loop/assets/104237973/4ce8fe2f-a23e-44e6-8478-7a45e31399a9" alt="Desktop Screenshot 1" width="600">
+  <img class="desktop-screenshot" src="https://github.com/SohamRoy-01/Link-Loop/assets/104237973/087ebbdd-4fa7-43aa-a0d7-bd52eab8bfab" alt="Desktop Screenshot 2" width="600">
+  <img class="desktop-screenshot" src="https://github.com/SohamRoy-01/Link-Loop/assets/104237973/aca40bef-e06d-4a87-b220-7329d6f96356" alt="Desktop Screenshot 3" width="600">
+</div>
+
+
