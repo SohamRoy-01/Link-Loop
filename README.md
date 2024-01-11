@@ -34,6 +34,7 @@ Explore social media with this user-friendly platform that has a nice look and l
 - React Query
 - TypeScript
 - Shadcn
+- Tanstack-react-query
 - Tailwind CSS
 
 ## <a name="features">🔋 Features</a>
