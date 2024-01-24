@@ -49,7 +49,7 @@ Explore social media with this user-friendly platform that has a nice look and l
 
 👉 **Profile Page**: A user profile page showcasing liked posts and providing options to edit the profile
 
-👉 **Browse Other Users**: Allow users to browse and explore other users' profiles and posts
+👉 **Browse Other Users**: Allow users to browse and explore other user's profiles and posts
 
 👉 **Create Post Page**: Implement a user-friendly create post page with effortless file management, storage, and drag-drop feature
 
