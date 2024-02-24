@@ -106,7 +106,7 @@ VITE_APPWRITE_SAVES_COLLECTION_ID=
 
 Replace the placeholder values with your actual Appwrite credentials. You can obtain these credentials by signing up on the [Appwrite website](https://appwrite.io/).
 
-**Running the Project**
+** For running the Project**
 
 ```bash
 npm start
